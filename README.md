@@ -10,14 +10,17 @@ Didalam menu awal disajikan peta pulau jawa dan button untuk berpindah ke halama
 
 # Menu Jawa Tengah
 Di dalam halaman Jawa Tengah ini terdapat beberapa list kuliner daerah Jawa Tengah serta asal kota kuliner tersebut, selain itu disertai button detail yang akan membawa ke halaman detail dari kuliner tersebut.
+
 ![2](https://user-images.githubusercontent.com/60590053/101477407-c1356b00-3981-11eb-8504-2df1f1cb0776.jpeg)
 
 # Menu Jawa Barat
 Di dalam halaman Jawa Barat ini terdapat beberapa list kuliner daerah Jawa Barat serta asal kota kuliner tersebut, selain itu disertai button detail yang akan membawa ke halaman detail dari kuliner tersebut.
+
 ![3](https://user-images.githubusercontent.com/60590053/101477406-c09cd480-3981-11eb-9fa4-0117768c9342.jpeg)
 
 # Menu Jawa Timur
 Di dalam halaman Jawa Timur ini terdapat beberapa list kuliner daerah Jawa Timur serta asal kota kuliner tersebut, selain itu disertai button detail yang akan membawa ke halaman detail dari kuliner tersebut.
+
 ![4](https://user-images.githubusercontent.com/60590053/101477404-bed31100-3981-11eb-9cdc-40506e70df01.jpeg)
 
 # Detail Kuliner
