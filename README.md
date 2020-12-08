@@ -20,8 +20,17 @@ Di dalam halaman Jawa Barat ini terdapat beberapa list kuliner daerah Jawa Barat
 Di dalam halaman Jawa Timur ini terdapat beberapa list kuliner daerah Jawa Timur serta asal kota kuliner tersebut. Selain itu disertai button detail yang akan membawa ke halaman detail dari kuliner tersebut.
 ![4](https://user-images.githubusercontent.com/60590053/101477404-bed31100-3981-11eb-9cdc-40506e70df01.jpeg)
 
+# Detail Kuliner
+Di halaman detail kuliner ini dijelaskan deskripsi tentang kuliner tersebut yang isinya asal mula nama kuliner tersebut dan juga sejarah kuliner, bisa juga deskripsi tentang bahan yang dipakai dalam kuliner tersebut. Halaman ini di intent kan dari button yang terdapat dalam list kuliner.
+
 ![5](https://user-images.githubusercontent.com/60590053/101477418-c397c500-3981-11eb-97a9-56f46da007aa.jpeg)
 
+# Resep Kuliner
+Di halaman resep kuliner ini menginformasikan cara membuat kuliner tersebut. Halaman ini di intent kan dari button yang terdapat dalam detail kuliner.
+
 ![6](https://user-images.githubusercontent.com/60590053/101477417-c2ff2e80-3981-11eb-9725-946186fd0967.jpeg)
+
+# Video Cara Pembuatan Kuliner
+Video cara pembuatan kuliner ini terdapat pada bawah resep kuliner agar mudah untuk dilihat serta terdapat media control untuk mengontrol videonya.
 
 ![7](https://user-images.githubusercontent.com/60590053/101477414-c2669800-3981-11eb-8aed-89f40bcfebad.jpeg)
