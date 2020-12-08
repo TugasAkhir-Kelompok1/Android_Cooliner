@@ -1,4 +1,5 @@
 # Cooliner
+Cooliner merupakan sebuah aplikasi yg memberikan informasi mengenai makanan khas daerah pulau jawa mulai dari jawa timur, jawa tengah, dan jawa barat. Didalam aplikasi Cooliner ini dilengkapi fitur detail yg mengenai makanan khas daerah dan juga resep untuk membuatnya serta video cara pembuatannya.
 
 ![0](https://user-images.githubusercontent.com/60590053/101479648-16bf4700-3985-11eb-9af2-a1bcc0589b02.jpeg)
 
