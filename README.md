@@ -6,8 +6,8 @@ Cooliner merupakan sebuah aplikasi yg memberikan informasi mengenai makanan khas
 Didalam menu awal disajikan peta pulau jawa dan button untuk berpindah ke halaman selanjutnya
 ![1](https://user-images.githubusercontent.com/60590053/101477410-c1ce0180-3981-11eb-854e-4aa9b07dce34.jpeg)
 
-#
-
+# Menu Jawa Barat
+Di dalam halaman Jawa Barat ini terdapat beberapa list kuliner daerah Jawa Barat serta asal kota kuliner tersebut
 ![2](https://user-images.githubusercontent.com/60590053/101477407-c1356b00-3981-11eb-8504-2df1f1cb0776.jpeg)
 
 ![3](https://user-images.githubusercontent.com/60590053/101477406-c09cd480-3981-11eb-9fa4-0117768c9342.jpeg)
